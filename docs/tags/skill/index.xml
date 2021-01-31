@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Skill on Yuusee - 看见世界</title>
-    <link>http://localhost:1313/tags/skill/</link>
+    <link>https://yuusee.github.io/tags/skill/</link>
     <description>Recent content in Skill on Yuusee - 看见世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/skill/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuusee.github.io/tags/skill/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在Windown下像Linux一样使用快捷方式</title>
-      <link>http://localhost:1313/post/2021/windows-run-command-like-linux/</link>
+      <link>https://yuusee.github.io/post/2021/windows-run-command-like-linux/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/post/2021/windows-run-command-like-linux/</guid>
+      <guid>https://yuusee.github.io/post/2021/windows-run-command-like-linux/</guid>
       <description>Windows下的问题 在Windows下，大部分情况我们都是通过鼠标来找到程序打开， 那有没有像 Linux 一样输入命令可以让程序运行的解决方案呢？ 解决</description>
     </item>
     

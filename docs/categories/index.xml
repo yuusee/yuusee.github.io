@@ -2,89 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yuusee - 看见世界</title>
-    <link>http://localhost:1313/categories/</link>
+    <link>https://yuusee.github.io/categories/</link>
     <description>Recent content in Categories on Yuusee - 看见世界</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://yuusee.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Windows</title>
-      <link>http://localhost:1313/categories/windows/</link>
+      <link>https://yuusee.github.io/categories/windows/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/windows/</guid>
+      <guid>https://yuusee.github.io/categories/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>http://localhost:1313/categories/docs/</link>
+      <link>https://yuusee.github.io/categories/docs/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/docs/</guid>
+      <guid>https://yuusee.github.io/categories/docs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>index</title>
-      <link>http://localhost:1313/categories/index/</link>
+      <link>https://yuusee.github.io/categories/index/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/index/</guid>
+      <guid>https://yuusee.github.io/categories/index/</guid>
       <description></description>
     </item>
     
     <item>
       <title>math</title>
-      <link>http://localhost:1313/categories/math/</link>
+      <link>https://yuusee.github.io/categories/math/</link>
       <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/math/</guid>
+      <guid>https://yuusee.github.io/categories/math/</guid>
       <description></description>
     </item>
     
     <item>
       <title>shortcodes</title>
-      <link>http://localhost:1313/categories/shortcodes/</link>
+      <link>https://yuusee.github.io/categories/shortcodes/</link>
       <pubDate>Sun, 04 Mar 2018 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/shortcodes/</guid>
+      <guid>https://yuusee.github.io/categories/shortcodes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>English</title>
-      <link>http://localhost:1313/categories/english/</link>
+      <link>https://yuusee.github.io/categories/english/</link>
       <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/english/</guid>
+      <guid>https://yuusee.github.io/categories/english/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://localhost:1313/categories/development/</link>
+      <link>https://yuusee.github.io/categories/development/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/development/</guid>
+      <guid>https://yuusee.github.io/categories/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://localhost:1313/categories/golang/</link>
+      <link>https://yuusee.github.io/categories/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/categories/golang/</guid>
+      <guid>https://yuusee.github.io/categories/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://localhost:1313/categories/syntax-highlighting/</link>
+      <link>https://yuusee.github.io/categories/syntax-highlighting/</link>
       <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
       
-      <guid>http://localhost:1313/categories/syntax-highlighting/</guid>
+      <guid>https://yuusee.github.io/categories/syntax-highlighting/</guid>
       <description></description>
     </item>
     

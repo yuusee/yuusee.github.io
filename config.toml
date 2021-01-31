@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://localhost:1313/"
+baseURL = "https://yuusee.github.io/"
 title = "Yuusee - 看见世界"
 enableRobotsTXT = true
 enableEmoji = true
@@ -80,7 +80,7 @@ defaultContentLanguage = "en"           # Default language to use
 
   [params.social]                                         # 社交链接
     a-email = "mailto:qqmmbq@163.com"
-    b-stack-overflow = "http://localhost:1313"
+    # b-stack-overflow = "http://localhost:1313"
     # c-twitter = "http://localhost:1313"
     # d-facebook = "http://localhost:1313"
     # e-linkedin = "http://localhost:1313"
