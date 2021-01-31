@@ -8,15 +8,6 @@
     <language>en</language>
     <lastBuildDate>Sun, 31 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Skill</title>
-      <link>http://localhost:1313/categories/skill/</link>
-      <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/categories/skill/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Windows</title>
       <link>http://localhost:1313/categories/windows/</link>
       <pubDate>Sun, 31 Jan 2021 00:00:00 +0000</pubDate>
